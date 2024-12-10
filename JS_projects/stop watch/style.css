@@ -1,0 +1,28 @@
+.timerbtn{
+    width:80px;
+    height:30px;
+    border-radius: 15px;
+    border-color: black;
+    background-color: black;
+    color:white;
+    cursor: pointer;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    display:flexbox;
+    align-items: center;
+    
+}
+#timerContainer{
+    border:15px;
+    width:390px;
+    border-radius: 15px;;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(250, 223, 189);
+    padding-left: 100px;
+}
+#timerDisplay{
+    text-align: center;
+    font-size: 60px;
+    color:rgb(28, 177, 28);
+    padding-right: 150px;
+}
